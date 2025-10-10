@@ -1,0 +1,12 @@
+this is file in the local and i want to upload this file with the help of cli ( from my local to remote )
+
+For that i will use
+
+git add file name
+
+git commit -m "Show message with file name"
+
+git push origin master
+
+== NOte == Master - is a branch in which file is save
+
